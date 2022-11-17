@@ -1,0 +1,11 @@
+Notas aula 2
+
+diferença entre:
+	= atribui valor 
+	== compara igualdade ignorando tipo do dado
+	=== compara igualdade incluindo tip0o do dado
+	
+condicional:
+	IF () {}
+	IF() {} ELSE{}
+	IF() {} ELSE IF{} ELSE{}
