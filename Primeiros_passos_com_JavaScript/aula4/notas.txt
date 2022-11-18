@@ -1,0 +1,12 @@
+
+Funções:
+    Trecho de códigos com metodos que podem ser executados quando chamados.
+
+Separando por funções facilita-se a leitura do código.
+
+passando função como parametro para outras funções.
+
+//Main função imediatamente invocada.
+(function (){
+
+})(); // Função imediatamente invocada, facilita para isolar o código.
