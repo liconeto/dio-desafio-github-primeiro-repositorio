@@ -1,0 +1,23 @@
+
+
+Objetos.
+    combinações com conteudo chave valor.
+
+    objetos são dinamicos
+
+    acesso a coleção 
+
+    pessoa['nome'] ;
+
+
+Classes.
+    definições.
+
+
+instãncias 
+    execução de classes.
+
+
+Orientação à Objtos.
+    
+
