@@ -1,0 +1,16 @@
+
+como organizar o código.
+entre funções, classes e etc...
+
+Distribuição de responsabilidade.
+
+encapsulamento de código.
+
+Importação de código
+
+principios de segmentação de código.
+Isolamento de complexidade.
+
+
+Objeto Destructing 
+

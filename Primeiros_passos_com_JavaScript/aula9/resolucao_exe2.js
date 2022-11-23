@@ -4,6 +4,13 @@
 
 const listaNumeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-for (let index = 0; index < listaNumeros.length; index++) {
-  const element = listaNumeros[index];
+function imprimePar(listaNumeros) {
+  for (let index = 0; index < listaNumeros.length; index++) {
+    const element = listaNumeros[index];
+    if (element % 2 === 0) {
+      console.log(element);
+    }
+  }
 }
+
+imprimePar(listaNumeros);

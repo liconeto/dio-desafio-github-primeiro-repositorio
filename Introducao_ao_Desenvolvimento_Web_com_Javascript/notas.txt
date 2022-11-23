@@ -1,0 +1,23 @@
+
+
+
+Configurações do VSCode
+
+
+   "editor.inlineSuggest.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.organizeImports": true
+        }
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": -1
+
+
+https://dribbble.com
+npm install -g http-server
