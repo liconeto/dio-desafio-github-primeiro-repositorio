@@ -21,3 +21,6 @@ Configurações do VSCode
 
 https://dribbble.com
 npm install -g http-server
+
+https://cdnjs.com/libraries/normalize
+
