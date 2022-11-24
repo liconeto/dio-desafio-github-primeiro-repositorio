@@ -24,3 +24,6 @@ npm install -g http-server
 
 https://cdnjs.com/libraries/normalize
 
+CSS mobile First.
+    facilita no desenvolvimento do site responsivo 
+
