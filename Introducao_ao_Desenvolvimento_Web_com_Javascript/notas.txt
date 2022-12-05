@@ -31,3 +31,59 @@ CSS mobile First.
 
 @media query CSS
     https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+
+
+Requisição http
+URL: https://pokeapi.co/api/v2/pokemon
+     ${IP}/${path = caminho de identificação do recurso}
+
+IP: https://pokeapi.co
+
+PATH: /api/v2/pokemon
+
+Tipos de solicitações.
+
+    Padrões de Projetos REST
+    GET | POST | PUT | DELETE
+
+    GET => Buscar recursos no servidor
+    POST => Inserir algo nos recursos do servidor 
+    PUT =>
+    DELETE =>
+
+    Path params
+    O Valor é passado direto no path do recurso
+    URL + valor 
+
+    Query String
+    O valor é passado após o ? com chave valor
+    URL + ? type=grass
+
+    Request Headers
+        Configuração
+        Accept-Language:
+	        pt-BR,
+            pt;q=0.8,
+            en-US;q=0.5,
+            en;q=0.3
+
+        Authorization:
+
+    Response Headers
+        Configuração
+
+    BODY
+    Corpo da Requisição:
+
+        Request Headers
+            content-type: application/json
+
+        Body{
+            "name": "Teste"
+        }
+
+    STATUS CODE: 200 ok
+
+
+    fetch api
+    https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
