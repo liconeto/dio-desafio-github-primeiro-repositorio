@@ -89,4 +89,8 @@ Tipos de solicitações.
     https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
     Encadeamento de then.
-    arrow function 
+    arrow function
+    Manipulando 
+        Pomisse
+        Lista
+        Objeto
