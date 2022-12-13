@@ -94,3 +94,11 @@ Tipos de solicitações.
         Pomisse
         Lista
         Objeto
+
+
+Desafio do Projeto.
+Pokedex com javascript
+    fazer a pagina de detalhes 
+
+
+https://dribbble.com/shots/6540871-Pokedex-App/attachments/6540871-Pokedex-App?mode=media
