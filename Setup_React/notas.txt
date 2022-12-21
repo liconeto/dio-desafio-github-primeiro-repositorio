@@ -1,0 +1,48 @@
+
+
+site do NPM
+https://www.npmjs.com/
+
+site do Yarn
+https://yarnpkg.com/
+npm install -g yarn
+
+https://github.com/facebook/react/tree/main/packages/react-devtools-extensions
+
+https://pt-br.reactjs.org
+
+Extensoes Vs Code
+
+    Bracket Pair Colorizer
+    Color HighLight
+    Color Picker
+    EditorConfig for VS Code
+    ES7 React/Redux/React-Native snippets
+    ESLint
+    Git Graph
+    Markdown Preview GitHub Styling
+    Material Icon Theme
+    Omni Theme
+    GitHub Theme
+    Prettier Code formatter
+    Todo Tree
+    Turbo Console Log
+
+
+    Bibliotecas JavaScript
+
+    Moment.js
+    Chart.js
+    Voca
+    mo.js
+    React
+
+    Framework
+
+    Angular
+    Vuex
+    Ionic
+    Next
+    Express
+    LoopBack
+
