@@ -9,7 +9,11 @@ npm install -g yarn
 
 https://github.com/facebook/react/tree/main/packages/react-devtools-extensions
 
+Site do React Documentação
 https://pt-br.reactjs.org
+
+Site do React CLI
+https://create-react-app.dev/
 
 Extensoes Vs Code
 
@@ -45,4 +49,33 @@ Extensoes Vs Code
     Next
     Express
     LoopBack
+	
+	Componentes de Classes X Funcionais
+		
+	
+	Conceito de componentes e Props
+		Componentizar Aplicaçao ajuda na padronizaçao e reutilizaçao de código.
+		Quando necessario renderizar mais de um componente envolver no <></> fragmentis
+		
+	Ciclo de vida do componente
+		Estado e ciclo de vida
+		Sempre que o estado de um componente for alterado ele deve ser reinderizado
+		
+		
+	Navegação 
+		yarn add react-router-dom
+		https://reactrouter.com/en/main/start/tutorial
+		
+	Estilização com React styled components
+		Syled components biblioteca de css dentro do javaScript
+		
+		https://styled-components.com/
+		
+		# with npm
+		npm install --save styled-components
+
+		# with yarn
+		yarn add styled-components
+		
+	
 
